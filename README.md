@@ -1,1 +1,1 @@
-This is a simple To-Do List web application that uses ReactJS and Bootstrap.
+This is a simple To-Do List web application that was built using ReactJS and Bootstrap.
